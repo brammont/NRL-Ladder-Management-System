@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[LadderPositions] (Table)
+       [dbo].[Matches] (Table)
+       [dbo].[Teams] (Table)
+       Foreign Key: unnamed constraint on [dbo].[LadderPositions] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Matches] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Matches] (Foreign Key)
+
+** Supporting actions

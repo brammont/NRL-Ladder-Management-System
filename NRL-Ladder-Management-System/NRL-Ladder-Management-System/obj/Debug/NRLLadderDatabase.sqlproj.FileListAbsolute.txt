@@ -1,0 +1,10 @@
+C:\Users\mazue\Documents\GitHub\NRL-Ladder-Management-System\NRL-Ladder-Management-System\NRL-Ladder-Management-System\bin\Debug\NRLLadderDatabase.dacpac
+C:\Users\mazue\Documents\GitHub\NRL-Ladder-Management-System\NRL-Ladder-Management-System\NRL-Ladder-Management-System\bin\Debug\NRL_Ladder_Management_System.dll
+C:\Users\mazue\Documents\GitHub\NRL-Ladder-Management-System\NRL-Ladder-Management-System\NRL-Ladder-Management-System\bin\Debug\NRL_Ladder_Management_System.pdb
+C:\Users\mazue\Documents\GitHub\NRL-Ladder-Management-System\NRL-Ladder-Management-System\NRL-Ladder-Management-System\obj\Debug\NRLLadderDatabase.sqlproj.AssemblyReference.cache
+C:\Users\mazue\Documents\GitHub\NRL-Ladder-Management-System\NRL-Ladder-Management-System\NRL-Ladder-Management-System\obj\Debug\Model.xml
+C:\Users\mazue\Documents\GitHub\NRL-Ladder-Management-System\NRL-Ladder-Management-System\NRL-Ladder-Management-System\obj\Debug\refactor.xml
+C:\Users\mazue\Documents\GitHub\NRL-Ladder-Management-System\NRL-Ladder-Management-System\NRL-Ladder-Management-System\obj\Debug\postdeploy.sql
+C:\Users\mazue\Documents\GitHub\NRL-Ladder-Management-System\NRL-Ladder-Management-System\NRL-Ladder-Management-System\obj\Debug\predeploy.sql
+C:\Users\mazue\Documents\GitHub\NRL-Ladder-Management-System\NRL-Ladder-Management-System\NRL-Ladder-Management-System\obj\Debug\NRL_Ladder_Management_System.dll
+C:\Users\mazue\Documents\GitHub\NRL-Ladder-Management-System\NRL-Ladder-Management-System\NRL-Ladder-Management-System\obj\Debug\NRL_Ladder_Management_System.pdb
